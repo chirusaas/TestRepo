@@ -1,0 +1,19 @@
+
+
+Consumer Key: 3MVG9c1ghSpUbLl9JKj5zPgwVZpIyJ2KDxb1_B8YqbrG0iYHzCUyF8in36oa7I_rKEc_sZT2zwZv86HxWczrz
+Consumer Secret: 4A07E26A7DB57E569D5B1F2738F446AB48867C2CF9BC8CD94126AE196A409F19
+
+Username=sfdcadmin@aurea.com.fullsb
+Password=Salesforce@123f41t2sf4o3VvtDCPXH5HARaZ
+
+Service: JiveAPIConnector
+Url mapping: /v1/Jive_HOP
+Param: conId
+
+GET:https://cs196.salesforce.com/services/apexrest/v1/Jive_HOP?conId=8000b000003EhTVAA0
+Response: {
+    "Status": "Paying",
+    "EndDate": "2016-01-22",
+    "DecommissionedDate": "2016-01-22",
+    "ContractId": "8000b000003EhTVAA0"
+}
